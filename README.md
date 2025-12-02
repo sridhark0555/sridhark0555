@@ -1,8 +1,23 @@
 # 👋 Hi, I'm **Sridhar**  
 ### **AI/ML Engineer | LLM Engineer | Generative AI | MLOps**
 
-I’m an **AI/ML Engineer with 4+ years of experience** building impactful AI systems across Healthcare, Pharma, and Financial Services.  
-Focused on **LLMs, RAG, GPU optimization, ML/DL systems, and production-ready MLOps pipelines**.
+📧 **Email:** sridhark0555@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sridhark0555  
+
+---
+
+## 👨‍💻 About Me
+I’m an **AI/ML Engineer with 4+ years of experience** delivering impactful AI solutions across Healthcare, Pharma, and Financial industries.  
+I hold a **Bachelor’s degree in Computer Science** and a **Master’s degree in Data Science (UMBC)**, which gives me a strong foundation in both software engineering and advanced machine learning techniques.
+
+I specialize in:
+- Building and optimizing **LLM systems**  
+- Designing **RAG pipelines**  
+- Deploying **GPU-accelerated inference systems**  
+- Developing **ML/DL models** at scale  
+- Creating **production-ready MLOps/LLMOps pipelines**
+
+I’m passionate about transforming raw data into scalable, high-impact AI solutions that solve real business problems.
 
 ---
 
@@ -15,8 +30,7 @@ Focused on **LLMs, RAG, GPU optimization, ML/DL systems, and production-ready ML
 
 ---
 
-## 🎯 High-Impact Skills  
-(With badges for a colorful GitHub look ✨)
+## 🎯 Skills  
 
 ### **🧠 LLMs & Generative AI**
 ![LLMs](https://img.shields.io/badge/LLMs-Transformers-blueviolet)
@@ -42,7 +56,7 @@ Focused on **LLMs, RAG, GPU optimization, ML/DL systems, and production-ready ML
 
 ---
 
-## 💼 Experience (Impact Highlights)
+## 💼 Experience
 
 ### **AI / Machine Learning Engineer — Roche**  
 **2025 – Present | Baltimore, MD**  
@@ -62,7 +76,6 @@ Focused on **LLMs, RAG, GPU optimization, ML/DL systems, and production-ready ML
 ---
 
 ## 🚀 Projects  
-(*Project Name → Link → One-line Description*)
 
 ### 📘 **RAG Document Intelligence Platform**  
 🔗 https://github.com/your-link-here  
@@ -82,12 +95,6 @@ Focused on **LLMs, RAG, GPU optimization, ML/DL systems, and production-ready ML
 
 ---
 
-## 🎓 Education
-**M.S. Data Science — University of Maryland, Baltimore County (UMBC)**  
-2023 – 2025
-
----
-
 ## 📜 Certifications
 - AWS Machine Learning – Specialty  
 - Databricks Machine Learning Associate  
@@ -99,7 +106,4 @@ Focused on **LLMs, RAG, GPU optimization, ML/DL systems, and production-ready ML
 
 ## 🤝 Connect With Me  
 📧 **sridhark0555@gmail.com**  
-🔗 **LinkedIn:** www.linkedin.com/in/sridhark0555 
-
-
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/sridhark0555  
