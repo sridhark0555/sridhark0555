@@ -72,9 +72,5 @@ I’m an **AI/ML Engineer with 4+ years of experience** building scalable Machin
 
 ## 🤝 Let’s Connect
 - **Email:** sridhark0555@gmail.com  
-- **LinkedIn:** _[your-link-here]_  
-- **GitHub:** _[your-github-here]_
+- **LinkedIn:** _[www.linkedin.com/in/sridhark0555]_  
 
----
-
-> _This README is based on my professional resume and experience. If you want a shorter version, a profile bio for LinkedIn, or badge/metrics added (GitHub stats, trophies), I can generate that next._
