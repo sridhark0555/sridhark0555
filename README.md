@@ -1,8 +1,8 @@
 # 👋 Hi, I'm **Sridhar**  
 ### **AI/ML Engineer | LLM Engineer | Generative AI | MLOps**
 
-📧 **Email:** sridhark0555@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sridhark0555  
+[![Email](https://img.shields.io/badge/Email-sridhark0555@gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sridhark0555@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sridhar_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sridhark0555)
 
 ---
 
