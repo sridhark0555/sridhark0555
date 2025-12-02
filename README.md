@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 I’m an **AI/ML Engineer with 4+ years of experience** delivering impactful AI solutions across Healthcare, Pharma, and Financial industries.  
-I hold a **Bachelor’s degree in Computer Science** and a **Master’s degree in Data Science (UMBC)**, which gives me a strong foundation in both software engineering and advanced machine learning techniques.
+I hold a **Bachelor’s degree in Computer Science** and a **Master’s degree in Data Science (UMBC)**, giving me a strong foundation in both software engineering and advanced machine learning techniques.
 
 I specialize in:
 - Building and optimizing **LLM systems**  
@@ -17,7 +17,7 @@ I specialize in:
 - Developing **ML/DL models** at scale  
 - Creating **production-ready MLOps/LLMOps pipelines**
 
-I’m passionate about transforming raw data into scalable, high-impact AI solutions that solve real business problems.
+I’m passionate about transforming raw data into scalable, high-impact AI solutions that solve real-world business problems.
 
 ---
 
@@ -75,6 +75,42 @@ I’m passionate about transforming raw data into scalable, high-impact AI solut
 
 ---
 
+## 🔭 Models & Techniques I’ve Worked With
+A collection of machine learning, deep learning, forecasting, and generative AI techniques I’ve applied across production-grade projects.
+
+### 🧠 Machine Learning & Deep Learning Models
+- Linear & Logistic Regression  
+- Support Vector Machines (SVM)  
+- Decision Trees (DT) & Random Forests (RF)  
+- K-Nearest Neighbors (KNN)  
+- Gradient Boosting (GBDT, XGBoost)  
+- Naive Bayes (NB)  
+- Deep Neural Networks (DNN)  
+- Convolutional Neural Networks (CNN)  
+- Recurrent Neural Networks (RNN)  
+- Long Short-Term Memory (LSTM)  
+
+---
+
+### 📈 Time-Series Forecasting Models
+- AR • ARMA • ARIMA  
+- SARIMA  
+- Prophet (Meta)  
+- N-HiTS (Neural Hierarchical Interpolation for Time-Series)  
+
+---
+
+### 🤖 Generative AI & LLM Tools
+- LangChain • LangGraph  
+- Retrieval-Augmented Generation (RAG)  
+- LlamaIndex  
+- OpenAI API  
+- Mixtral  
+- Llama 2 / Llama 3  
+- GPT-3 • GPT-3.5 • GPT-4  
+
+---
+
 ## 🚀 Projects  
 
 ### 📘 **RAG Document Intelligence Platform**  
@@ -106,4 +142,4 @@ I’m passionate about transforming raw data into scalable, high-impact AI solut
 
 ## 🤝 Connect With Me  
 📧 **sridhark0555@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sridhark0555  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sridhark0555
