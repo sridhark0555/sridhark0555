@@ -158,6 +158,7 @@ I build scalable, production-grade LLM systems with a focus on RAG pipelines, fi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridhark0555&bg_color=141321&color=fe428e&line=fe428e&area=true&hide_border=true" width="100%"/>
 </p>
+
 ---
 
 ## **🤝 Connect With Me**
