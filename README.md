@@ -85,6 +85,38 @@ I build scalable, production-grade LLM systems with a focus on RAG pipelines, fi
 
 ---
 
+## **🚀 Projects**
+
+<div style="display: flex; flex-wrap: wrap; gap: 14px;">
+
+  <div style="flex: 1; min-width: 380px;">
+    <p>🍲 <strong><a href="https://github.com/sridhark0555/TasteGPT-Personalized-Recipe-Generator-Using-LLM-s">TasteGPT — Personalized Recipe Generator</a></strong> — LLM-powered RAG system using embeddings & preference modeling for personalized meal generation.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 380px;">
+    <p>🌿 <strong><a href="https://github.com/sridhark0555/AI-Disease-Detection-Real-Time-Plant-Advice-using-LLM-s">Plant Disease Detection & Advice</a></strong> — CNN-based plant disease classification enhanced with LLM-driven agronomy insights.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 380px;">
+    <p>🎨 <strong><a href="https://github.com/sridhark0555/Image-Colorization-Using-GANs--DeepLearning-">Image Colorization using GANs</a></strong> — GAN-driven image restoration pipeline performing realistic colorization through deep generative modeling.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 380px;">
+    <p>🎬 <strong><a href="https://github.com/sridhark0555/Film-Review-Sentiment-Analysis">Film Review Sentiment Analysis</a></strong> — Transformer-based NLP model for sentiment classification using contextual embeddings.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 380px;">
+    <p>🛡️ <strong><a href="https://github.com/sridhark0555/AI-False-Image-Identification-Classifier">Fake Image Identification</a></strong> — CNN-powered forensic image classifier detecting AI-generated and manipulated media.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 380px;">
+    <p>👁️ <strong><a href="https://github.com/sridhark0555/Improving-Glaucoma-Detection-Accuracy-Using-Generative-Adversarial-Networks-Deep-Learning-">Glaucoma Detection Enhancement</a></strong> — GAN-augmented medical imaging pipeline boosting diagnostic accuracy for ophthalmology AI.</p>
+  </div>
+
+</div>
+
+---
+
 ## 🎯 Skills 
 
 ### 🤖 Generative AI & LLMs  
@@ -126,22 +158,6 @@ I build scalable, production-grade LLM systems with a focus on RAG pipelines, fi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sridhark0555&bg_color=141321&color=fe428e&line=fe428e&area=true&hide_border=true" width="100%"/>
 </p>
-
----
-
-## **🚀 Projects**
-
-📘 **[RAG Document Intelligence Platform](https://github.com/your-link-here)**  
-*Semantic Q&A over 3M+ documents using LangChain, LlamaIndex & FAISS.*
-
-🦙 **[LLaMA Fine-Tuning Framework](https://github.com/your-link-here)**  
-*LoRA/QLoRA fine-tuning pipeline for 120K transcripts using PyTorch.*
-
-🔍 **[Anomaly Detection System](https://github.com/your-link-here)**  
-*Real-time anomaly detection for supply chain analytics.*
-
-🖼️ **[Multimodal Clinical AI Model](https://github.com/your-link-here)**  
-*Combines image data + clinical notes using transformer-based multimodal learning.*
 
 ---
 
