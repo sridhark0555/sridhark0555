@@ -85,71 +85,28 @@ I build scalable, production-grade LLM systems with a focus on RAG pipelines, fi
 
 ---
 
-## **🔥 What I Do**
+## 🎯 Skills 
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-
-  <div style="flex: 1;">
-    <p><strong>🤖 AI / ML / DL</strong> — Forecasting • Anomaly Detection • Recommendation Systems • CNNs • RNNs • Transformers • Multimodal Architectures</p>
-  </div>
-
-  <div style="flex: 1;">
-    <p><strong>🧬 Generative AI / LLMs</strong> — LoRA • QLoRA • PEFT • RAG Pipelines • Agentic AI</p>
-  </div>
-
-  <div style="flex: 1;">
-    <p><strong>⚡ GPU Optimization</strong> — Triton • TensorRT • ONNX Runtime • CUDA</p>
-  </div>
-
-  <div style="flex: 1;">
-    <p><strong>🚀 MLOps / LLMOps</strong> — MLflow • Airflow • Docker • Kubernetes • SageMaker • Vertex AI • Azure ML</p>
-  </div>
-
-</div>
-
----
-
-## **🎯 Skills**
-
-### 🧠 LLMs & Generative AI
-![LLMs](https://img.shields.io/badge/LLMs-Transformers-blueviolet)
-![LoRA](https://img.shields.io/badge/Fine--Tuning-LoRA%2FQLoRA-purple)
-![RAG](https://img.shields.io/badge/RAG-LangChain%20%7C%20LlamaIndex-ff69b4)
-![vLLM](https://img.shields.io/badge/Inference-vLLM-orange)
-![Agentic AI](https://img.shields.io/badge/Agentic-AI-blue)
-
-### ⚡ GPU & Performance
-![Triton](https://img.shields.io/badge/Triton-Inference-green)
-![TensorRT](https://img.shields.io/badge/TensorRT-Optimization-red)
-![ONNX](https://img.shields.io/badge/ONNX-Runtime-darkblue)
-![CUDA](https://img.shields.io/badge/CUDA-Compute-yellow)
-
-### 🚀 MLOps
-![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)
-![Airflow](https://img.shields.io/badge/Airflow-Orchestration-teal)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED)
-![K8s](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5)
-![SageMaker](https://img.shields.io/badge/AWS-SageMaker-orange)
-![Vertex AI](https://img.shields.io/badge/Vertex-AI-purple)
-![AzureML](https://img.shields.io/badge/Azure-ML-blue)
-
----
-
-
-
-## **🔭 Models & Techniques I Use**
+### 🤖 Generative AI & LLMs  
+🧠 Transformers • 🔁 RAG • 🎛️ LoRA/QLoRA • 🔗 LangChain • 🧩 LangGraph • 📚 LlamaIndex  
+⚡ vLLM • 🗂️ Vector DBs (FAISS, Pinecone)
 
 ### 🧠 Machine Learning & Deep Learning  
-- Regression • SVM • Trees • Random Forests • KNN • GBDT • XGBoost  
-DNN • CNN • RNN • LSTM  
+🔍 Scikit-learn • 🌲 XGBoost • 🔥 PyTorch  
+🖼️ CNNs • 🔄 RNN/LSTM • 📐 Embeddings
 
-### 📈 Time-Series Forecasting  
-- AR • ARMA • ARIMA • SARIMA • Prophet • N-HiTS  
+### ⚙️ MLOps & Deployment  
+🐳 Docker • ☸️ Kubernetes • 🚀 FastAPI  
+📈 MLflow • 🧭 Airflow • 🟧 AWS SageMaker
 
-### 🤖 Generative AI / LLM Tools  
-- LangChain • LangGraph • RAG • LlamaIndex  
-OpenAI API • Mixtral • Llama 2/3 • GPT-3/3.5/4
+### 📄 NLP & Document Intelligence  
+🤗 Hugging Face • 📝 BERT • 🔎 Semantic Search • 🖨️ OCR
 
+### 🧪 Evaluation & Metrics  
+📊 SHAP • 🎛️ LIME • 🧭 Ragas • 🎯 Precision@K
+
+### 💻 Programming  
+🐍 Python • 🗃️ SQL • 🌱 Git
 
 ---
 
