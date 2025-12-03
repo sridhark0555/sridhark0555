@@ -121,8 +121,6 @@ Below are key ML/DL models I've applied in real-world production systems:
 
 </div>
 
----
-
 ## **📈 Time-Series Forecasting Models**
 
 <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
@@ -138,8 +136,6 @@ Below are key ML/DL models I've applied in real-world production systems:
   </div>
 
 </div>
-
----
 
 ## **🤖 Generative AI & LLM Tools**
 
@@ -175,7 +171,8 @@ DNN • CNN • RNN • LSTM
 
 ### 🤖 Generative AI / LLM Tools  
 - LangChain • LangGraph • RAG • LlamaIndex  
-OpenAI API • Mixtral • Llama 2/3 • GPT-3/3.5/4  
+OpenAI API • Mixtral • Llama 2/3 • GPT-3/3.5/4
+
 
 ---
 
@@ -186,14 +183,10 @@ OpenAI API • Mixtral • Llama 2/3 • GPT-3/3.5/4
   <img src="https://github-profile-trophy.vercel.app/?username=sridhark0555&theme=radical&no-frame=true&column=7"/>
 </p>
 
----
-
 ### 🔥 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sridhark0555&theme=radical&hide_border=true"/>
 </p>
-
----
 
 ### 📊 Activity Graph
 <p align="center">
