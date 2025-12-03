@@ -30,19 +30,25 @@ With a strong **Computer Science foundation** and a **Data Science Master’s (U
 
 ## **🔥 What I Do**
 
-### 🤖 AI / ML / DL
-- Forecasting • Anomaly Detection • Recommendation Systems  
-- CNNs • RNNs • Transformers • Multimodal Architectures  
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-### 🧬 Generative AI / LLMs
-LoRA • QLoRA • PEFT • RAG Pipelines • Agentic AI
+  <div style="flex: 1;">
+    <p><strong>🤖 AI / ML / DL</strong> — Forecasting • Anomaly Detection • Recommendation Systems • CNNs • RNNs • Transformers • Multimodal Architectures</p>
+  </div>
 
-### ⚡ GPU Optimization
-Triton • TensorRT • ONNX Runtime • CUDA  
+  <div style="flex: 1;">
+    <p><strong>🧬 Generative AI / LLMs</strong> — LoRA • QLoRA • PEFT • RAG Pipelines • Agentic AI</p>
+  </div>
 
-### 🚀 MLOps / LLMOps
-MLflow • Airflow • Docker • Kubernetes  
-SageMaker • Vertex AI • Azure ML  
+  <div style="flex: 1;">
+    <p><strong>⚡ GPU Optimization</strong> — Triton • TensorRT • ONNX Runtime • CUDA</p>
+  </div>
+
+  <div style="flex: 1;">
+    <p><strong>🚀 MLOps / LLMOps</strong> — MLflow • Airflow • Docker • Kubernetes • SageMaker • Vertex AI • Azure ML</p>
+  </div>
+
+</div>
 
 ---
 
@@ -79,14 +85,10 @@ SageMaker • Vertex AI • Azure ML
 - Improved biomedical **Precision@K by 210%** using multimodal embeddings.  
 - Reduced LLM inference latency **by 32–48%** with Triton, TensorRT & ONNX.
 
----
-
 ### 💊 Machine Learning Engineer — Cipla  
 **2021 – 2023 | Hyderabad, India**  
 - Prevented **320+ inventory shortfalls** via ML forecasting.  
 - Avoided **$1.8M** in delays using real-time anomaly detection.
-
----
 
 ### 🏦 Data Scientist — KPMG  
 **2019 – 2021 | Hyderabad, India**  
