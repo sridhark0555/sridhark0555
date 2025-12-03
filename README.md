@@ -100,38 +100,64 @@ With a strong **Computer Science foundation** and a **Data Science Master’s (U
 ## **🔭 Machine Learning & Deep Learning Models**
 Below are key ML/DL models I've applied in real-world production systems:
 
-- Linear & Logistic Regression  
-- Support Vector Machines (SVM)  
-- Decision Trees & Random Forests  
-- K-Nearest Neighbors (KNN)  
-- Naive Bayes  
-- Gradient Boosting Algorithms (GBDT, XGBoost)  
-- Deep Neural Networks (DNNs)  
-- Convolutional Neural Networks (CNNs)  
-- Recurrent Neural Networks (RNNs, LSTM)
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
----
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>Linear & Logistic Regression</strong> — <i>core predictive modeling</i></p>
+    <p><strong>SVM</strong> — <i>high-dimensional classification strength</i></p>
+    <p><strong>Decision Trees & Random Forests</strong> — <i>interpretable and ensemble-stable</i></p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>KNN</strong> — <i>proximity-based learning</i></p>
+    <p><strong>Naive Bayes</strong> — <i>lightweight probabilistic modeling</i></p>
+    <p><strong>GBDT & XGBoost</strong> — <i>industry-grade boosting</i></p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>DNN</strong> — <i>scalable deep representation learning</i></p>
+    <p><strong>CNN</strong> — <i>vision-focused architectures</i></p>
+    <p><strong>RNN, LSTM</strong> — <i>sequence intelligence and temporal modeling</i></p>
+  </div>
+
+</div>
 
 ## **📈 Time-Series Forecasting Models**
-Some forecasting models I’ve used for high-volume and enterprise pipelines:
 
-- Auto-Regressive (AR)  
-- ARMA & ARIMA families  
-- Seasonal ARIMA (SARIMA)  
-- Prophet (Meta)  
-- N-HiTS — neural interpolation for long-range forecasting  
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
----
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>AR, ARMA, ARIMA</strong> — <i>statistical foundations for temporal patterns</i></p>
+    <p><strong>SARIMA</strong> — <i>seasonality-aware forecasting</i></p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>Prophet (Meta)</strong> — <i>trend + seasonality decomposition</i></p>
+    <p><strong>N-HiTS</strong> — <i>neural long-range forecasting</i></p>
+  </div>
+
+</div>
 
 ## **🤖 Generative AI & LLM Tools**
-Generative AI tools, frameworks & LLMs I frequently use:
 
-- LangChain • LangGraph  
-- Retrieval-Augmented Generation (RAG)  
-- LlamaIndex  
-- OpenAI APIs  
-- Mixtral, Llama 2/3  
-- GPT-3 • GPT-3.5 • GPT-4  
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>LangChain</strong> — <i>composable LLM pipelines</i></p>
+    <p><strong>LangGraph</strong> — <i>agentic workflow orchestration</i></p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>RAG & LlamaIndex</strong> — <i>retrieval-grounded reasoning</i></p>
+    <p><strong>OpenAI API</strong> — <i>production-grade model access</i></p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>Mixtral & Llama 2/3</strong> — <i>modern open-source LLMs</i></p>
+    <p><strong>GPT-3 / 3.5 / 4</strong> — <i>state-of-the-art generative intelligence</i></p>
+  </div>
+
+</div>
 
 ---
 
