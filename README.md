@@ -28,6 +28,63 @@ With a strong **Computer Science foundation** and a **Data Science Master’s (U
 
 ---
 
+## **💼 Experience**
+
+### 🧬 AI / Machine Learning Engineer — Roche  
+**2025 – Present | Baltimore, MD**  
+- Improved biomedical **Precision@K by 210%** using multimodal embeddings.  
+- Reduced LLM inference latency **by 32–48%** with Triton, TensorRT & ONNX.
+
+### 💊 Machine Learning Engineer — Cipla  
+**2021 – 2023 | Hyderabad, India**  
+- Prevented **320+ inventory shortfalls** via ML forecasting.  
+- Avoided **$1.8M** in delays using real-time anomaly detection.
+
+### 🏦 Data Scientist — KPMG  
+**2019 – 2021 | Hyderabad, India**  
+- Boosted fraud detection **F1: 0.72 → 0.89**, reducing false positives significantly.  
+- Automated 1.5TB/day ETL pipeline, cutting processing time by **18 hours**.
+
+---
+
+## 🔭 Machine Learning & Deep Learning Models
+I’ve applied a wide range of ML/DL techniques in production systems, focusing on reliable, interpretable, and scalable solutions.
+
+• **Linear & Logistic Regression** — calibration & baseline modeling  
+• **SVM** — high-dimensional classification  
+• **Decision Trees / Random Forests** — fast, explainable tabular ML  
+• **KNN** — lightweight similarity search  
+• **Naive Bayes** — efficient text & streaming models  
+• **GBDT / XGBoost** — high-performance structured ML  
+• **Transformers** — NLP, vision & multimodal architectures  
+• **Embedding Models** — semantic search & representation learning  
+• **DNNs** — deep non-linear modeling  
+• **CNNs** — vision & spatial pattern extraction  
+• **RNNs / LSTM** — sequence modeling  
+• **Attention Mechanisms** — modern sequence understanding  
+
+
+## 🤖 Generative AI & LLM Tools
+I build scalable, production-grade LLM systems with a focus on RAG pipelines, fine-tuning, inference optimization, and agentic workflows.
+
+• **LangChain / LangGraph** — LLM workflows & agents  
+• **RAG Pipelines** — retrieval, ranking & hybrid search  
+• **LlamaIndex** — data connectors & retrieval orchestration  
+• **OpenAI API** — GPT models, embeddings & tools  
+• **vLLM** — high-throughput inference serving  
+• **Triton / TensorRT** — GPU-level optimization  
+• **PEFT (LoRA / QLoRA)** — efficient fine-tuning  
+• **Mixtral / Llama 2–3** — optimized open-source LLMs  
+• **GPT-3 / 3.5 / 4** — advanced reasoning & generation  
+• **Vector DBs:** Weaviate • Pinecone • Milvus  
+• **Embedding Models:** OpenAI • SBERT • Instructor  
+• **Agents & Tool Use** — multi-step reasoning systems  
+• **Deployment:** FastAPI • Docker • Kubernetes • Ray Serve  
+• **Monitoring:** MLflow • Grafana • Prometheus  
+
+
+---
+
 ## **🔥 What I Do**
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
@@ -78,87 +135,7 @@ With a strong **Computer Science foundation** and a **Data Science Master’s (U
 
 ---
 
-## **💼 Experience**
 
-### 🧬 AI / Machine Learning Engineer — Roche  
-**2025 – Present | Baltimore, MD**  
-- Improved biomedical **Precision@K by 210%** using multimodal embeddings.  
-- Reduced LLM inference latency **by 32–48%** with Triton, TensorRT & ONNX.
-
-### 💊 Machine Learning Engineer — Cipla  
-**2021 – 2023 | Hyderabad, India**  
-- Prevented **320+ inventory shortfalls** via ML forecasting.  
-- Avoided **$1.8M** in delays using real-time anomaly detection.
-
-### 🏦 Data Scientist — KPMG  
-**2019 – 2021 | Hyderabad, India**  
-- Boosted fraud detection **F1: 0.72 → 0.89**, reducing false positives significantly.  
-- Automated 1.5TB/day ETL pipeline, cutting processing time by **18 hours**.
-
----
-## **🔭 Machine Learning & Deep Learning Models**
-Below are key ML/DL models I've applied in real-world production systems:
-
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>Linear & Logistic Regression</strong> — <i>core predictive modeling</i></p>
-    <p>▌ <strong>SVM</strong> — <i>high-dimensional classification strength</i></p>
-    <p>▌ <strong>Decision Trees & Random Forests</strong> — <i>interpretable and ensemble-stable</i></p>
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>KNN</strong> — <i>proximity-based learning</i></p>
-    <p>▌ <strong>Naive Bayes</strong> — <i>lightweight probabilistic modeling</i></p>
-    <p>▌ <strong>GBDT & XGBoost</strong> — <i>industry-grade boosting</i></p>
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>DNN</strong> — <i>scalable deep representation learning</i></p>
-    <p>▌ <strong>CNN</strong> — <i>vision-focused architectures</i></p>
-    <p>▌ <strong>RNN, LSTM</strong> — <i>sequence intelligence and temporal modeling</i></p>
-  </div>
-
-</div>
-
-## **📈 Time-Series Forecasting Models**
-
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>AR, ARMA, ARIMA</strong> — <i>statistical foundations for temporal patterns</i></p>
-    <p>▌ <strong>SARIMA</strong> — <i>seasonality-aware forecasting</i></p>
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>Prophet (Meta)</strong> — <i>trend + seasonality decomposition</i></p>
-    <p>▌ <strong>N-HiTS</strong> — <i>neural long-range forecasting</i></p>
-  </div>
-
-</div>
-
-## **🤖 Generative AI & LLM Tools**
-
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>LangChain</strong> — <i>composable LLM pipelines</i></p>
-    <p>▌ <strong>LangGraph</strong> — <i>agentic workflow orchestration</i></p>
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>RAG & LlamaIndex</strong> — <i>retrieval-grounded reasoning</i></p>
-    <p>▌ <strong>OpenAI API</strong> — <i>production-grade model access</i></p>
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>▌ <strong>Mixtral & Llama 2/3</strong> — <i>modern open-source LLMs</i></p>
-    <p>▌ <strong>GPT-3 / 3.5 / 4</strong> — <i>state-of-the-art generative intelligence</i></p>
-  </div>
-
-</div>
-
----
 
 ## **🔭 Models & Techniques I Use**
 
