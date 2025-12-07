@@ -61,7 +61,7 @@ I’ve applied a wide range of ML/DL techniques in production systems, focusing 
 • **DNNs** — deep non-linear modeling  
 • **CNNs** — vision & spatial pattern extraction  
 • **RNNs / LSTM** — sequence modeling  
-• **Attention Mechanisms** — modern sequence understanding  
+• **Attention Mechanisms** — modern sequence understanding.  
 
 
 ## 🤖 Generative AI & LLM Tools
