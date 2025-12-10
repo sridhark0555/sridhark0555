@@ -138,7 +138,7 @@ I build scalable, production-grade LLM systems with a focus on RAG pipelines, fi
 📊 SHAP • 🎛️ LIME • 🧭 Ragas • 🎯 Precision@K
 
 ### 💻 Programming  
-🐍 Python • 🗃️ SQL • 🌱 Git
+🐍 Python • 🗃️ SQL • 🌱 Git.
 
 ---
 
